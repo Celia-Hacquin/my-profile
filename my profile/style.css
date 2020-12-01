@@ -1,0 +1,51 @@
+h1, h2, h3, h4, h5 {
+	color: 877B66;
+	font-weight: lighter;
+	font-size: 35;
+	text-align: center;}
+p {
+	text-align: center;
+	text-align: justify;}
+body {
+	background-color: F3EFE0;
+}
+a{
+	color: 654321;
+	text-decoration: none;
+}
+a:hover {
+	color:877B66;
+}
+.button {
+	background-color: green;
+	padding: 8px 20px;
+	border-radius: 4px;
+	color: yellow;
+	transition: border-radius 0.5;
+}
+.button:hover {
+	color:877B66;
+	border-radius:8px;
+}
+.button:active {
+	background-color: rgb(191,213,232);
+	border-radius: 20px;
+}
+img {
+	border-radius: 60%;
+	margin-left: 20px auto;
+	margin-right:20px auto;}
+.white-card {
+	margin: 40px;
+	width: 700px;
+	padding: 10px;
+	border:10px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+	background-color: F3EFE0;
+	text-align: center;
+	border-radius: 7px;
+}
+div {
+	display: block;
+}
